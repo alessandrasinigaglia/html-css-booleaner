@@ -31,3 +31,21 @@ h4 {
 .no-margin {
     margin: 0px;
 }
+
+#table-color {
+    background-color: #20A9E5;
+}
+
+#colore-scritta {
+    color: white;
+}
+
+#colore-dispari {
+    color: #B1E5F2;
+    
+}
+
+#h3 {
+    color: #808080;
+}
+
