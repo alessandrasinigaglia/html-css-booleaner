@@ -1,0 +1,33 @@
+.inter- {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 46px;
+}
+
+#page-title {
+    font-size: 36px;
+    text-align: left;
+    color:white
+}
+
+header {
+    background-color: #4EA0FF;
+    color: white;
+    height: 190px;
+    background-image: url(img/pattern.png);
+    background-size: 280px;
+}
+
+h4 {
+    color: #808080;
+}
+
+.testo-evidenziato {
+    color: #4EA0FF;
+}
+
+.no-margin {
+    margin: 0px;
+}
